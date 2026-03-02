@@ -9,10 +9,10 @@ A collection of shell scripts that automate the security configuration and ongoi
 ```
 linux-server-hardening/
  ├── scripts/
- │   ├── hardening-setup.sh      # One-time server hardening setup
- │   └── security-updates.sh     # Scheduled maintenance & patching
- ├── hardening-checklist.md      # Manual verification checklist
- └── README.md                   # You are here
+ │   ├── hardening-setup.sh      
+ │   └── security-updates.sh     
+ ├── hardening-checklist.md      
+ └── README.md                   
 ```
 
 ---
